@@ -122,9 +122,3 @@ lib/
 **Amr Sadek**
 
 Flutter Developer
-
----
-
-## License
-
-This project was developed as part of a technical training task.
